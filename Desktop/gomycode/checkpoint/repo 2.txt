@@ -1,0 +1,12 @@
+first task
+step 1 : Dot product
+step 2 : add parameter ( v1 and v2 )
+step 3 : multiply parameter v1 and v2
+step 4 : return product
+
+second task
+step 1 : create an array to hold the card
+step 2 : loop through the card
+step 3 : compare one card to another
+step 4 :  if they are not softed then swap their position
+step 5 :  and compare the size if then one card is greater than the other then swap it
